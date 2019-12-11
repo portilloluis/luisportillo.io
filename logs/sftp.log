@@ -1,0 +1,546 @@
+May  1 20:58:58 10.71.54.11 u88614007 Connection from 10.71.54.11 port 54198 on 198.71.62.82 port 22
+May  1 20:59:02 10.71.54.11 u88614007 Accepted password for u88614007 from 10.71.54.11 port 54198 ssh2
+May  1 20:59:02 10.71.54.11 u88614007 Starting session: subsystem 'sftp' for u88614007 from 10.71.54.11 port 54198
+May  1 20:59:02 10.71.54.11 u88614007 session opened for local user u88614007 from [10.71.54.11]
+May  1 21:19:31 10.71.54.11 u88614007 Connection from 10.71.54.11 port 27008 on 198.71.62.82 port 22
+May  1 21:19:32 10.71.54.11 u88614007 Accepted password for u88614007 from 10.71.54.11 port 27008 ssh2
+May  1 21:19:31 10.71.54.11 u88614007 Connection from 10.71.54.11 port 27000 on 198.71.62.82 port 22
+May  1 21:19:32 10.71.54.11 u88614007 Accepted password for u88614007 from 10.71.54.11 port 27000 ssh2
+May  1 21:19:32 10.71.54.11 u88614007 Starting session: subsystem 'sftp' for u88614007 from 10.71.54.11 port 27000
+May  1 21:19:32 10.71.54.11 u88614007 Starting session: subsystem 'sftp' for u88614007 from 10.71.54.11 port 27008
+May  1 21:19:32 10.71.54.11 u88614007 session opened for local user u88614007 from [10.71.54.11]
+May  1 21:19:32 10.71.54.11 u88614007 session opened for local user u88614007 from [10.71.54.11]
+May  1 21:19:33 10.71.54.11 u88614007 open "/casa_morales.php" flags READ mode 0666
+May  1 21:19:33 10.71.54.11 u88614007 open "/accion_formulario.php" flags READ mode 0666
+May  1 21:19:33 10.71.54.11 u88614007 close "/accion_formulario.php" bytes read 1521 written 0
+May  1 21:19:33 10.71.54.11 u88614007 [10.71.54.11|get|0|1521|0|0|0|2f616363696f6e5f666f726d756c6172696f2e706870|]
+May  1 21:19:33 10.71.54.11 u88614007 close "/casa_morales.php" bytes read 2527 written 0
+May  1 21:19:33 10.71.54.11 u88614007 [10.71.54.11|get|0|2527|0|0|0|2f636173615f6d6f72616c65732e706870|]
+May  1 21:19:33 10.71.54.11 u88614007 open "/cassainova.php" flags READ mode 0666
+May  1 21:19:33 10.71.54.11 u88614007 open "/ccg.php" flags READ mode 0666
+May  1 21:19:33 10.71.54.11 u88614007 close "/cassainova.php" bytes read 1912 written 0
+May  1 21:19:33 10.71.54.11 u88614007 [10.71.54.11|get|0|1912|0|0|0|2f6361737361696e6f76612e706870|]
+May  1 21:19:33 10.71.54.11 u88614007 close "/ccg.php" bytes read 1044 written 0
+May  1 21:19:33 10.71.54.11 u88614007 [10.71.54.11|get|0|1044|0|0|0|2f6363672e706870|]
+May  1 21:19:34 10.71.54.11 u88614007 open "/digital_plus.php" flags READ mode 0666
+May  1 21:19:34 10.71.54.11 u88614007 open "/dra_gurrola.php" flags READ mode 0666
+May  1 21:19:34 10.71.54.11 u88614007 close "/digital_plus.php" bytes read 2453 written 0
+May  1 21:19:34 10.71.54.11 u88614007 [10.71.54.11|get|0|2453|0|0|0|2f6469676974616c5f706c75732e706870|]
+May  1 21:19:34 10.71.54.11 u88614007 close "/dra_gurrola.php" bytes read 1038 written 0
+May  1 21:19:34 10.71.54.11 u88614007 [10.71.54.11|get|0|1038|0|0|0|2f6472615f677572726f6c612e706870|]
+May  1 21:19:34 10.71.54.11 u88614007 open "/footer.php" flags READ mode 0666
+May  1 21:19:34 10.71.54.11 u88614007 open "/fujifilm.php" flags READ mode 0666
+May  1 21:19:34 10.71.54.11 u88614007 close "/footer.php" bytes read 245 written 0
+May  1 21:19:34 10.71.54.11 u88614007 [10.71.54.11|get|0|245|0|0|0|2f666f6f7465722e706870|]
+May  1 21:19:34 10.71.54.11 u88614007 close "/fujifilm.php" bytes read 1252 written 0
+May  1 21:19:34 10.71.54.11 u88614007 [10.71.54.11|get|0|1252|0|0|0|2f66756a6966696c6d2e706870|]
+May  1 21:19:34 10.71.54.11 u88614007 open "/gepp.php" flags READ mode 0666
+May  1 21:19:34 10.71.54.11 u88614007 open "/head.php" flags READ mode 0666
+May  1 21:19:35 10.71.54.11 u88614007 close "/gepp.php" bytes read 1504 written 0
+May  1 21:19:35 10.71.54.11 u88614007 [10.71.54.11|get|1|1504|0|0|0|2f676570702e706870|]
+May  1 21:19:35 10.71.54.11 u88614007 close "/head.php" bytes read 416 written 0
+May  1 21:19:35 10.71.54.11 u88614007 [10.71.54.11|get|1|416|0|0|0|2f686561642e706870|]
+May  1 21:19:35 10.71.54.11 u88614007 open "/high_preformance_states.php" flags READ mode 0666
+May  1 21:19:35 10.71.54.11 u88614007 open "/index.php" flags READ mode 0666
+May  1 21:19:35 10.71.54.11 u88614007 close "/high_preformance_states.php" bytes read 1459 written 0
+May  1 21:19:35 10.71.54.11 u88614007 [10.71.54.11|get|0|1459|0|0|0|2f686967685f707265666f726d616e63655f7374617465732e706870|]
+May  1 21:19:35 10.71.54.11 u88614007 close "/index.php" bytes read 3182 written 0
+May  1 21:19:35 10.71.54.11 u88614007 [10.71.54.11|get|0|3182|0|0|0|2f696e6465782e706870|]
+May  1 21:19:35 10.71.54.11 u88614007 open "/ishow.php" flags READ mode 0666
+May  1 21:19:35 10.71.54.11 u88614007 open "/nav.php" flags READ mode 0666
+May  1 21:19:36 10.71.54.11 u88614007 close "/ishow.php" bytes read 1751 written 0
+May  1 21:19:36 10.71.54.11 u88614007 [10.71.54.11|get|1|1751|0|0|0|2f6973686f772e706870|]
+May  1 21:19:36 10.71.54.11 u88614007 close "/nav.php" bytes read 340 written 0
+May  1 21:19:36 10.71.54.11 u88614007 [10.71.54.11|get|1|340|0|0|0|2f6e61762e706870|]
+May  1 21:19:36 10.71.54.11 u88614007 open "/perfil.php" flags READ mode 0666
+May  1 21:19:36 10.71.54.11 u88614007 open "/proyecto.php" flags READ mode 0666
+May  1 21:19:36 10.71.54.11 u88614007 close "/perfil.php" bytes read 12092 written 0
+May  1 21:19:36 10.71.54.11 u88614007 [10.71.54.11|get|0|12092|0|0|0|2f70657266696c2e706870|]
+May  1 21:19:36 10.71.54.11 u88614007 close "/proyecto.php" bytes read 3405 written 0
+May  1 21:19:36 10.71.54.11 u88614007 [10.71.54.11|get|0|3405|0|0|0|2f70726f796563746f2e706870|]
+May  1 21:19:36 10.71.54.11 u88614007 open "/sanborns_artes.php" flags READ mode 0666
+May  1 21:19:36 10.71.54.11 u88614007 close "/sanborns_artes.php" bytes read 4019 written 0
+May  1 21:19:36 10.71.54.11 u88614007 [10.71.54.11|get|0|4019|0|0|0|2f73616e626f726e735f61727465732e706870|]
+May  1 21:19:36 10.71.54.11 u88614007 open "/certificados/titulo_licenciatura.pdf" flags READ mode 0666
+May  1 21:19:37 10.71.54.11 u88614007 open "/certificados/maquetador_web.pdf" flags READ mode 0666
+May  1 21:19:37 10.71.54.11 u88614007 close "/certificados/titulo_licenciatura.pdf" bytes read 250668 written 0
+May  1 21:19:37 10.71.54.11 u88614007 [10.71.54.11|get|1|250668|0|0|0|2f636572746966696361646f732f746974756c6f5f6c6963656e636961747572612e706466|]
+May  1 21:19:37 10.71.54.11 u88614007 open "/certificados/diplomado_web_app.pdf" flags READ mode 0666
+May  1 21:19:37 10.71.54.11 u88614007 close "/certificados/maquetador_web.pdf" bytes read 375230 written 0
+May  1 21:19:37 10.71.54.11 u88614007 [10.71.54.11|get|0|375230|0|0|0|2f636572746966696361646f732f6d617175657461646f725f7765622e706466|]
+May  1 21:19:37 10.71.54.11 u88614007 close "/certificados/diplomado_web_app.pdf" bytes read 112620 written 0
+May  1 21:19:37 10.71.54.11 u88614007 [10.71.54.11|get|0|112620|0|0|0|2f636572746966696361646f732f6469706c6f6d61646f5f7765625f6170702e706466|]
+May  1 21:19:38 10.71.54.11 u88614007 open "/certificados/diploma-diseno-web-online.pdf" flags READ mode 0666
+May  1 21:19:38 10.71.54.11 u88614007 open "/certificados/diploma-diseno-interfaces-ux.pdf" flags READ mode 0666
+May  1 21:19:38 10.71.54.11 u88614007 close "/certificados/diploma-diseno-interfaces-ux.pdf" bytes read 479694 written 0
+May  1 21:19:38 10.71.54.11 u88614007 [10.71.54.11|get|0|479694|0|0|0|2f636572746966696361646f732f6469706c6f6d612d646973656e6f2d696e74657266616365732d75782e706466|]
+May  1 21:19:38 10.71.54.11 u88614007 close "/certificados/diploma-diseno-web-online.pdf" bytes read 754164 written 0
+May  1 21:19:38 10.71.54.11 u88614007 [10.71.54.11|get|0|754164|0|0|0|2f636572746966696361646f732f6469706c6f6d612d646973656e6f2d7765622d6f6e6c696e652e706466|]
+May  1 21:19:38 10.71.54.11 u88614007 open "/certificados/curso_profesional_de_frontend.pdf" flags READ mode 0666
+May  1 21:19:38 10.71.54.11 u88614007 open "/certificados/curso_marketing.pdf" flags READ mode 0666
+May  1 21:19:39 10.71.54.11 u88614007 close "/certificados/curso_profesional_de_frontend.pdf" bytes read 50074 written 0
+May  1 21:19:39 10.71.54.11 u88614007 [10.71.54.11|get|1|50074|0|0|0|2f636572746966696361646f732f637572736f5f70726f666573696f6e616c5f64655f66726f6e74656e642e706466|]
+May  1 21:19:39 10.71.54.11 u88614007 close "/certificados/curso_marketing.pdf" bytes read 58523 written 0
+May  1 21:19:39 10.71.54.11 u88614007 [10.71.54.11|get|1|58523|0|0|0|2f636572746966696361646f732f637572736f5f6d61726b6574696e672e706466|]
+May  1 21:19:39 10.71.54.11 u88614007 open "/certificados/curso_intro_programacion.pdf" flags READ mode 0666
+May  1 21:19:39 10.71.54.11 u88614007 open "/certificados/Curso_de_Programacion_Orientada_a_objetos.pdf" flags READ mode 0666
+May  1 21:19:39 10.71.54.11 u88614007 close "/certificados/curso_intro_programacion.pdf" bytes read 74530 written 0
+May  1 21:19:39 10.71.54.11 u88614007 [10.71.54.11|get|0|74530|0|0|0|2f636572746966696361646f732f637572736f5f696e74726f5f70726f6772616d6163696f6e2e706466|]
+May  1 21:19:39 10.71.54.11 u88614007 open "/certificados/ace_dreamweaver.pdf" flags READ mode 0666
+May  1 21:19:39 10.71.54.11 u88614007 close "/certificados/Curso_de_Programacion_Orientada_a_objetos.pdf" bytes read 1050645 written 0
+May  1 21:19:39 10.71.54.11 u88614007 [10.71.54.11|get|0|1050645|0|0|0|2f636572746966696361646f732f437572736f5f64655f50726f6772616d6163696f6e5f4f7269656e746164615f615f6f626a65746f732e706466|]
+May  1 21:19:39 10.71.54.11 u88614007 close "/certificados/ace_dreamweaver.pdf" bytes read 330533 written 0
+May  1 21:19:39 10.71.54.11 u88614007 [10.71.54.11|get|0|330533|0|0|0|2f636572746966696361646f732f6163655f647265616d7765617665722e706466|]
+May  1 21:19:40 10.71.54.11 u88614007 open "/css/estilo.css" flags READ mode 0666
+May  1 21:19:40 10.71.54.11 u88614007 close "/css/estilo.css" bytes read 14108 written 0
+May  1 21:19:40 10.71.54.11 u88614007 [10.71.54.11|get|0|14108|0|0|0|2f6373732f657374696c6f2e637373|]
+May  1 21:19:40 10.71.54.11 u88614007 open "/css/vendor/normalizer.css" flags READ mode 0666
+May  1 21:19:40 10.71.54.11 u88614007 close "/css/vendor/normalizer.css" bytes read 7797 written 0
+May  1 21:19:40 10.71.54.11 u88614007 [10.71.54.11|get|0|7797|0|0|0|2f6373732f76656e646f722f6e6f726d616c697a65722e637373|]
+May  1 21:19:40 10.71.54.11 u88614007 open "/css/vendor/jquery.fancybox.css" flags READ mode 0666
+May  1 21:19:41 10.71.54.11 u88614007 close "/css/vendor/jquery.fancybox.css" bytes read 4988 written 0
+May  1 21:19:41 10.71.54.11 u88614007 [10.71.54.11|get|1|4988|0|0|0|2f6373732f76656e646f722f6a71756572792e66616e6379626f782e637373|]
+May  1 21:19:41 10.71.54.11 u88614007 open "/fonts/sinkinsans-600semibold-webfont.woff2" flags READ mode 0666
+May  1 21:19:41 10.71.54.11 u88614007 close "/fonts/sinkinsans-600semibold-webfont.woff2" bytes read 21368 written 0
+May  1 21:19:41 10.71.54.11 u88614007 [10.71.54.11|get|0|21368|0|0|0|2f666f6e74732f73696e6b696e73616e732d36303073656d69626f6c642d776562666f6e742e776f666632|]
+May  1 21:19:41 10.71.54.11 u88614007 open "/fonts/sinkinsans-600semibold-webfont.woff" flags READ mode 0666
+May  1 21:19:41 10.71.54.11 u88614007 open "/fonts/sinkinsans-600semibold-webfont.ttf" flags READ mode 0666
+May  1 21:19:41 10.71.54.11 u88614007 close "/fonts/sinkinsans-600semibold-webfont.woff" bytes read 27820 written 0
+May  1 21:19:41 10.71.54.11 u88614007 [10.71.54.11|get|0|27820|0|0|0|2f666f6e74732f73696e6b696e73616e732d36303073656d69626f6c642d776562666f6e742e776f6666|]
+May  1 21:19:41 10.71.54.11 u88614007 close "/fonts/sinkinsans-600semibold-webfont.ttf" bytes read 49040 written 0
+May  1 21:19:41 10.71.54.11 u88614007 [10.71.54.11|get|0|49040|0|0|0|2f666f6e74732f73696e6b696e73616e732d36303073656d69626f6c642d776562666f6e742e747466|]
+May  1 21:19:41 10.71.54.11 u88614007 open "/fonts/sinkinsans-600semibold-webfont.svg" flags READ mode 0666
+May  1 21:19:41 10.71.54.11 u88614007 open "/fonts/sinkinsans-600semibold-webfont.eot" flags READ mode 0666
+May  1 21:19:42 10.71.54.11 u88614007 close "/fonts/sinkinsans-600semibold-webfont.svg" bytes read 96587 written 0
+May  1 21:19:42 10.71.54.11 u88614007 close "/fonts/sinkinsans-600semibold-webfont.eot" bytes read 24182 written 0
+May  1 21:19:42 10.71.54.11 u88614007 [10.71.54.11|get|1|24182|0|0|0|2f666f6e74732f73696e6b696e73616e732d36303073656d69626f6c642d776562666f6e742e656f74|]
+May  1 21:19:42 10.71.54.11 u88614007 [10.71.54.11|get|1|96587|0|0|0|2f666f6e74732f73696e6b696e73616e732d36303073656d69626f6c642d776562666f6e742e737667|]
+May  1 21:19:42 10.71.54.11 u88614007 open "/fonts/sinkinsans-400regular-webfont.woff" flags READ mode 0666
+May  1 21:19:42 10.71.54.11 u88614007 open "/fonts/sinkinsans-400regular-webfont.woff2" flags READ mode 0666
+May  1 21:19:42 10.71.54.11 u88614007 close "/fonts/sinkinsans-400regular-webfont.woff" bytes read 27316 written 0
+May  1 21:19:42 10.71.54.11 u88614007 [10.71.54.11|get|0|27316|0|0|0|2f666f6e74732f73696e6b696e73616e732d343030726567756c61722d776562666f6e742e776f6666|]
+May  1 21:19:42 10.71.54.11 u88614007 close "/fonts/sinkinsans-400regular-webfont.woff2" bytes read 21108 written 0
+May  1 21:19:42 10.71.54.11 u88614007 [10.71.54.11|get|0|21108|0|0|0|2f666f6e74732f73696e6b696e73616e732d343030726567756c61722d776562666f6e742e776f666632|]
+May  1 21:19:42 10.71.54.11 u88614007 open "/fonts/sinkinsans-400regular-webfont.ttf" flags READ mode 0666
+May  1 21:19:42 10.71.54.11 u88614007 open "/fonts/sinkinsans-400regular-webfont.svg" flags READ mode 0666
+May  1 21:19:43 10.71.54.11 u88614007 close "/fonts/sinkinsans-400regular-webfont.ttf" bytes read 49168 written 0
+May  1 21:19:43 10.71.54.11 u88614007 [10.71.54.11|get|1|49168|0|0|0|2f666f6e74732f73696e6b696e73616e732d343030726567756c61722d776562666f6e742e747466|]
+May  1 21:19:43 10.71.54.11 u88614007 close "/fonts/sinkinsans-400regular-webfont.svg" bytes read 98034 written 0
+May  1 21:19:43 10.71.54.11 u88614007 [10.71.54.11|get|1|98034|0|0|0|2f666f6e74732f73696e6b696e73616e732d343030726567756c61722d776562666f6e742e737667|]
+May  1 21:19:43 10.71.54.11 u88614007 open "/fonts/sinkinsans-400regular-webfont.eot" flags READ mode 0666
+May  1 21:19:43 10.71.54.11 u88614007 open "/fonts/sinkinsans-300light-webfont.woff2" flags READ mode 0666
+May  1 21:19:43 10.71.54.11 u88614007 close "/fonts/sinkinsans-400regular-webfont.eot" bytes read 23983 written 0
+May  1 21:19:43 10.71.54.11 u88614007 [10.71.54.11|get|0|23983|0|0|0|2f666f6e74732f73696e6b696e73616e732d343030726567756c61722d776562666f6e742e656f74|]
+May  1 21:19:43 10.71.54.11 u88614007 close "/fonts/sinkinsans-300light-webfont.woff2" bytes read 21024 written 0
+May  1 21:19:43 10.71.54.11 u88614007 [10.71.54.11|get|0|21024|0|0|0|2f666f6e74732f73696e6b696e73616e732d3330306c696768742d776562666f6e742e776f666632|]
+May  1 21:19:43 10.71.54.11 u88614007 open "/fonts/sinkinsans-300light-webfont.woff" flags READ mode 0666
+May  1 21:19:43 10.71.54.11 u88614007 open "/fonts/sinkinsans-300light-webfont.ttf" flags READ mode 0666
+May  1 21:19:43 10.71.54.11 u88614007 close "/fonts/sinkinsans-300light-webfont.woff" bytes read 27232 written 0
+May  1 21:19:43 10.71.54.11 u88614007 [10.71.54.11|get|0|27232|0|0|0|2f666f6e74732f73696e6b696e73616e732d3330306c696768742d776562666f6e742e776f6666|]
+May  1 21:19:44 10.71.54.11 u88614007 close "/fonts/sinkinsans-300light-webfont.ttf" bytes read 48740 written 0
+May  1 21:19:44 10.71.54.11 u88614007 [10.71.54.11|get|1|48740|0|0|0|2f666f6e74732f73696e6b696e73616e732d3330306c696768742d776562666f6e742e747466|]
+May  1 21:19:44 10.71.54.11 u88614007 open "/fonts/sinkinsans-300light-webfont.svg" flags READ mode 0666
+May  1 21:19:44 10.71.54.11 u88614007 open "/fonts/sinkinsans-300light-webfont.eot" flags READ mode 0666
+May  1 21:19:44 10.71.54.11 u88614007 close "/fonts/sinkinsans-300light-webfont.svg" bytes read 97535 written 0
+May  1 21:19:44 10.71.54.11 u88614007 [10.71.54.11|get|0|97535|0|0|0|2f666f6e74732f73696e6b696e73616e732d3330306c696768742d776562666f6e742e737667|]
+May  1 21:19:44 10.71.54.11 u88614007 close "/fonts/sinkinsans-300light-webfont.eot" bytes read 23870 written 0
+May  1 21:19:44 10.71.54.11 u88614007 [10.71.54.11|get|0|23870|0|0|0|2f666f6e74732f73696e6b696e73616e732d3330306c696768742d776562666f6e742e656f74|]
+May  1 21:19:44 10.71.54.11 u88614007 open "/fonts/sinkinsans-100thin-webfont.woff2" flags READ mode 0666
+May  1 21:19:44 10.71.54.11 u88614007 open "/fonts/sinkinsans-100thin-webfont.woff" flags READ mode 0666
+May  1 21:19:44 10.71.54.11 u88614007 close "/fonts/sinkinsans-100thin-webfont.woff2" bytes read 21424 written 0
+May  1 21:19:44 10.71.54.11 u88614007 [10.71.54.11|get|0|21424|0|0|0|2f666f6e74732f73696e6b696e73616e732d3130307468696e2d776562666f6e742e776f666632|]
+May  1 21:19:44 10.71.54.11 u88614007 close "/fonts/sinkinsans-100thin-webfont.woff" bytes read 27580 written 0
+May  1 21:19:44 10.71.54.11 u88614007 [10.71.54.11|get|0|27580|0|0|0|2f666f6e74732f73696e6b696e73616e732d3130307468696e2d776562666f6e742e776f6666|]
+May  1 21:19:45 10.71.54.11 u88614007 open "/fonts/sinkinsans-100thin-webfont.svg" flags READ mode 0666
+May  1 21:19:45 10.71.54.11 u88614007 open "/fonts/sinkinsans-100thin-webfont.ttf" flags READ mode 0666
+May  1 21:19:45 10.71.54.11 u88614007 close "/fonts/sinkinsans-100thin-webfont.svg" bytes read 96307 written 0
+May  1 21:19:45 10.71.54.11 u88614007 [10.71.54.11|get|0|96307|0|0|0|2f666f6e74732f73696e6b696e73616e732d3130307468696e2d776562666f6e742e737667|]
+May  1 21:19:45 10.71.54.11 u88614007 close "/fonts/sinkinsans-100thin-webfont.ttf" bytes read 49480 written 0
+May  1 21:19:45 10.71.54.11 u88614007 [10.71.54.11|get|0|49480|0|0|0|2f666f6e74732f73696e6b696e73616e732d3130307468696e2d776562666f6e742e747466|]
+May  1 21:19:45 10.71.54.11 u88614007 open "/fonts/sinkinsans-100thin-webfont.eot" flags READ mode 0666
+May  1 21:19:45 10.71.54.11 u88614007 open "/fonts/exo-regular-webfont.woff2" flags READ mode 0666
+May  1 21:19:45 10.71.54.11 u88614007 close "/fonts/sinkinsans-100thin-webfont.eot" bytes read 24284 written 0
+May  1 21:19:45 10.71.54.11 u88614007 [10.71.54.11|get|0|24284|0|0|0|2f666f6e74732f73696e6b696e73616e732d3130307468696e2d776562666f6e742e656f74|]
+May  1 21:19:45 10.71.54.11 u88614007 close "/fonts/exo-regular-webfont.woff2" bytes read 22528 written 0
+May  1 21:19:45 10.71.54.11 u88614007 [10.71.54.11|get|0|22528|0|0|0|2f666f6e74732f65786f2d726567756c61722d776562666f6e742e776f666632|]
+May  1 21:19:45 10.71.54.11 u88614007 open "/fonts/exo-regular-webfont.woff" flags READ mode 0666
+May  1 21:19:46 10.71.54.11 u88614007 open "/fonts/exo-regular-webfont.ttf" flags READ mode 0666
+May  1 21:19:46 10.71.54.11 u88614007 close "/fonts/exo-regular-webfont.woff" bytes read 28644 written 0
+May  1 21:19:46 10.71.54.11 u88614007 [10.71.54.11|get|1|28644|0|0|0|2f666f6e74732f65786f2d726567756c61722d776562666f6e742e776f6666|]
+May  1 21:19:46 10.71.54.11 u88614007 close "/fonts/exo-regular-webfont.ttf" bytes read 51044 written 0
+May  1 21:19:46 10.71.54.11 u88614007 [10.71.54.11|get|0|51044|0|0|0|2f666f6e74732f65786f2d726567756c61722d776562666f6e742e747466|]
+May  1 21:19:46 10.71.54.11 u88614007 open "/fonts/exo-regular-webfont.eot" flags READ mode 0666
+May  1 21:19:46 10.71.54.11 u88614007 open "/fonts/exo-regular-webfont.svg" flags READ mode 0666
+May  1 21:19:46 10.71.54.11 u88614007 close "/fonts/exo-regular-webfont.eot" bytes read 25207 written 0
+May  1 21:19:46 10.71.54.11 u88614007 [10.71.54.11|get|0|25207|0|0|0|2f666f6e74732f65786f2d726567756c61722d776562666f6e742e656f74|]
+May  1 21:19:46 10.71.54.11 u88614007 close "/fonts/exo-regular-webfont.svg" bytes read 91831 written 0
+May  1 21:19:46 10.71.54.11 u88614007 [10.71.54.11|get|0|91831|0|0|0|2f666f6e74732f65786f2d726567756c61722d776562666f6e742e737667|]
+May  1 21:19:47 10.71.54.11 u88614007 open "/fonts/icofonts/icomoon.woff" flags READ mode 0666
+May  1 21:19:47 10.71.54.11 u88614007 open "/fonts/icofonts/icomoon.ttf" flags READ mode 0666
+May  1 21:19:47 10.71.54.11 u88614007 close "/fonts/icofonts/icomoon.woff" bytes read 5168 written 0
+May  1 21:19:47 10.71.54.11 u88614007 [10.71.54.11|get|0|5168|0|0|0|2f666f6e74732f69636f666f6e74732f69636f6d6f6f6e2e776f6666|]
+May  1 21:19:47 10.71.54.11 u88614007 close "/fonts/icofonts/icomoon.ttf" bytes read 5092 written 0
+May  1 21:19:47 10.71.54.11 u88614007 [10.71.54.11|get|0|5092|0|0|0|2f666f6e74732f69636f666f6e74732f69636f6d6f6f6e2e747466|]
+May  1 21:19:47 10.71.54.11 u88614007 open "/fonts/icofonts/icomoon.svg" flags READ mode 0666
+May  1 21:19:47 10.71.54.11 u88614007 open "/fonts/icofonts/icomoon.eot" flags READ mode 0666
+May  1 21:19:47 10.71.54.11 u88614007 close "/fonts/icofonts/icomoon.svg" bytes read 18890 written 0
+May  1 21:19:47 10.71.54.11 u88614007 [10.71.54.11|get|0|18890|0|0|0|2f666f6e74732f69636f666f6e74732f69636f6d6f6f6e2e737667|]
+May  1 21:19:47 10.71.54.11 u88614007 close "/fonts/icofonts/icomoon.eot" bytes read 5256 written 0
+May  1 21:19:47 10.71.54.11 u88614007 [10.71.54.11|get|0|5256|0|0|0|2f666f6e74732f69636f666f6e74732f69636f6d6f6f6e2e656f74|]
+May  1 21:19:48 10.71.54.11 u88614007 open "/img/ver_mas_gris.png" flags READ mode 0666
+May  1 21:19:48 10.71.54.11 u88614007 open "/img/ver_mas.png" flags READ mode 0666
+May  1 21:19:48 10.71.54.11 u88614007 close "/img/ver_mas_gris.png" bytes read 7194 written 0
+May  1 21:19:48 10.71.54.11 u88614007 [10.71.54.11|get|0|7194|0|0|0|2f696d672f7665725f6d61735f677269732e706e67|]
+May  1 21:19:48 10.71.54.11 u88614007 close "/img/ver_mas.png" bytes read 7289 written 0
+May  1 21:19:48 10.71.54.11 u88614007 [10.71.54.11|get|0|7289|0|0|0|2f696d672f7665725f6d61732e706e67|]
+May  1 21:19:48 10.71.54.11 u88614007 open "/img/portillo_firma.png" flags READ mode 0666
+May  1 21:19:48 10.71.54.11 u88614007 open "/img/portafolio.png" flags READ mode 0666
+May  1 21:19:49 10.71.54.11 u88614007 close "/img/portillo_firma.png" bytes read 32995 written 0
+May  1 21:19:49 10.71.54.11 u88614007 [10.71.54.11|get|1|32995|0|0|0|2f696d672f706f7274696c6c6f5f6669726d612e706e67|]
+May  1 21:19:49 10.71.54.11 u88614007 close "/img/portafolio.png" bytes read 17597 written 0
+May  1 21:19:49 10.71.54.11 u88614007 [10.71.54.11|get|1|17597|0|0|0|2f696d672f706f727461666f6c696f2e706e67|]
+May  1 21:19:49 10.71.54.11 u88614007 open "/img/perfil.png" flags READ mode 0666
+May  1 21:19:49 10.71.54.11 u88614007 open "/img/nombre.png" flags READ mode 0666
+May  1 21:19:49 10.71.54.11 u88614007 close "/img/perfil.png" bytes read 35936 written 0
+May  1 21:19:49 10.71.54.11 u88614007 [10.71.54.11|get|0|35936|0|0|0|2f696d672f70657266696c2e706e67|]
+May  1 21:19:49 10.71.54.11 u88614007 close "/img/nombre.png" bytes read 2945 written 0
+May  1 21:19:49 10.71.54.11 u88614007 [10.71.54.11|get|0|2945|0|0|0|2f696d672f6e6f6d6272652e706e67|]
+May  1 21:19:49 10.71.54.11 u88614007 open "/img/menu_expandible.png" flags READ mode 0666
+May  1 21:19:49 10.71.54.11 u88614007 open "/img/logo_header.gif" flags READ mode 0666
+May  1 21:19:50 10.71.54.11 u88614007 close "/img/menu_expandible.png" bytes read 1078 written 0
+May  1 21:19:50 10.71.54.11 u88614007 [10.71.54.11|get|0|1078|0|0|0|2f696d672f6d656e755f657870616e6469626c652e706e67|]
+May  1 21:19:50 10.71.54.11 u88614007 close "/img/logo_header.gif" bytes read 1684 written 0
+May  1 21:19:50 10.71.54.11 u88614007 [10.71.54.11|get|1|1684|0|0|0|2f696d672f6c6f676f5f6865616465722e676966|]
+May  1 21:19:50 10.71.54.11 u88614007 open "/img/favicon.ico" flags READ mode 0666
+May  1 21:19:50 10.71.54.11 u88614007 open "/img/escribir_mensaje.png" flags READ mode 0666
+May  1 21:19:50 10.71.54.11 u88614007 close "/img/favicon.ico" bytes read 1150 written 0
+May  1 21:19:50 10.71.54.11 u88614007 close "/img/escribir_mensaje.png" bytes read 2316 written 0
+May  1 21:19:50 10.71.54.11 u88614007 [10.71.54.11|get|0|1150|0|0|0|2f696d672f66617669636f6e2e69636f|]
+May  1 21:19:50 10.71.54.11 u88614007 [10.71.54.11|get|0|2316|0|0|0|2f696d672f65736372696269725f6d656e73616a652e706e67|]
+May  1 21:19:50 10.71.54.11 u88614007 open "/img/correo_electronico.png" flags READ mode 0666
+May  1 21:19:50 10.71.54.11 u88614007 open "/img/contacto_footer.png" flags READ mode 0666
+May  1 21:19:51 10.71.54.11 u88614007 close "/img/correo_electronico.png" bytes read 2142 written 0
+May  1 21:19:51 10.71.54.11 u88614007 [10.71.54.11|get|1|2142|0|0|0|2f696d672f636f7272656f5f656c656374726f6e69636f2e706e67|]
+May  1 21:19:51 10.71.54.11 u88614007 close "/img/contacto_footer.png" bytes read 2700 written 0
+May  1 21:19:51 10.71.54.11 u88614007 [10.71.54.11|get|1|2700|0|0|0|2f696d672f636f6e746163746f5f666f6f7465722e706e67|]
+May  1 21:19:51 10.71.54.11 u88614007 open "/img/backintro_sanborns.jpg" flags READ mode 0666
+May  1 21:19:51 10.71.54.11 u88614007 open "/img/certificado.png" flags READ mode 0666
+May  1 21:19:51 10.71.54.11 u88614007 close "/img/backintro_sanborns.jpg" bytes read 63400 written 0
+May  1 21:19:51 10.71.54.11 u88614007 [10.71.54.11|get|0|63400|0|0|0|2f696d672f6261636b696e74726f5f73616e626f726e732e6a7067|]
+May  1 21:19:51 10.71.54.11 u88614007 close "/img/certificado.png" bytes read 11785 written 0
+May  1 21:19:51 10.71.54.11 u88614007 [10.71.54.11|get|0|11785|0|0|0|2f696d672f636572746966696361646f2e706e67|]
+May  1 21:19:52 10.71.54.11 u88614007 open "/img/backintro_ishow.jpg" flags READ mode 0666
+May  1 21:19:52 10.71.54.11 u88614007 open "/img/backintro_highPreformanceStates.jpg" flags READ mode 0666
+May  1 21:19:52 10.71.54.11 u88614007 close "/img/backintro_ishow.jpg" bytes read 34766 written 0
+May  1 21:19:52 10.71.54.11 u88614007 [10.71.54.11|get|0|34766|0|0|0|2f696d672f6261636b696e74726f5f6973686f772e6a7067|]
+May  1 21:19:52 10.71.54.11 u88614007 close "/img/backintro_highPreformanceStates.jpg" bytes read 34663 written 0
+May  1 21:19:52 10.71.54.11 u88614007 [10.71.54.11|get|0|34663|0|0|0|2f696d672f6261636b696e74726f5f68696768507265666f726d616e63655374617465732e6a7067|]
+May  1 21:19:52 10.71.54.11 u88614007 open "/img/backintro_gepp.jpg" flags READ mode 0666
+May  1 21:19:52 10.71.54.11 u88614007 open "/img/backintro_fuji.jpg" flags READ mode 0666
+May  1 21:19:52 10.71.54.11 u88614007 close "/img/backintro_fuji.jpg" bytes read 25428 written 0
+May  1 21:19:52 10.71.54.11 u88614007 [10.71.54.11|get|0|25428|0|0|0|2f696d672f6261636b696e74726f5f66756a692e6a7067|]
+May  1 21:19:52 10.71.54.11 u88614007 open "/img/backintro_dra_gurrola.jpg" flags READ mode 0666
+May  1 21:19:52 10.71.54.11 u88614007 close "/img/backintro_gepp.jpg" bytes read 30157 written 0
+May  1 21:19:52 10.71.54.11 u88614007 [10.71.54.11|get|0|30157|0|0|0|2f696d672f6261636b696e74726f5f676570702e6a7067|]
+May  1 21:19:53 10.71.54.11 u88614007 open "/img/backintro_digitalPlus.jpg" flags READ mode 0666
+May  1 21:19:53 10.71.54.11 u88614007 close "/img/backintro_dra_gurrola.jpg" bytes read 56975 written 0
+May  1 21:19:53 10.71.54.11 u88614007 [10.71.54.11|get|1|56975|0|0|0|2f696d672f6261636b696e74726f5f6472615f677572726f6c612e6a7067|]
+May  1 21:19:53 10.71.54.11 u88614007 open "/img/backintro_ccg.jpg" flags READ mode 0666
+May  1 21:19:53 10.71.54.11 u88614007 close "/img/backintro_digitalPlus.jpg" bytes read 31215 written 0
+May  1 21:19:53 10.71.54.11 u88614007 [10.71.54.11|get|0|31215|0|0|0|2f696d672f6261636b696e74726f5f6469676974616c506c75732e6a7067|]
+May  1 21:19:53 10.71.54.11 u88614007 open "/img/backintro_cassaInova.jpg" flags READ mode 0666
+May  1 21:19:53 10.71.54.11 u88614007 close "/img/backintro_ccg.jpg" bytes read 37515 written 0
+May  1 21:19:53 10.71.54.11 u88614007 [10.71.54.11|get|0|37515|0|0|0|2f696d672f6261636b696e74726f5f6363672e6a7067|]
+May  1 21:19:53 10.71.54.11 u88614007 open "/img/ace_dreamweaver.gif" flags READ mode 0666
+May  1 21:19:53 10.71.54.11 u88614007 close "/img/backintro_cassaInova.jpg" bytes read 26452 written 0
+May  1 21:19:53 10.71.54.11 u88614007 [10.71.54.11|get|0|26452|0|0|0|2f696d672f6261636b696e74726f5f6361737361496e6f76612e6a7067|]
+May  1 21:19:54 10.71.54.11 u88614007 open "/img/backintro_casaMorales.jpg" flags READ mode 0666
+May  1 21:19:54 10.71.54.11 u88614007 close "/img/ace_dreamweaver.gif" bytes read 6432 written 0
+May  1 21:19:54 10.71.54.11 u88614007 [10.71.54.11|get|1|6432|0|0|0|2f696d672f6163655f647265616d7765617665722e676966|]
+May  1 21:19:54 10.71.54.11 u88614007 close "/img/backintro_casaMorales.jpg" bytes read 49335 written 0
+May  1 21:19:54 10.71.54.11 u88614007 [10.71.54.11|get|0|49335|0|0|0|2f696d672f6261636b696e74726f5f636173614d6f72616c65732e6a7067|]
+May  1 21:19:54 10.71.54.11 u88614007 open "/img/fancybox/fancybox_sprite@2x.png" flags READ mode 0666
+May  1 21:19:54 10.71.54.11 u88614007 open "/img/fancybox/fancybox_sprite.png" flags READ mode 0666
+May  1 21:19:54 10.71.54.11 u88614007 close "/img/fancybox/fancybox_sprite@2x.png" bytes read 6553 written 0
+May  1 21:19:54 10.71.54.11 u88614007 [10.71.54.11|get|0|6553|0|0|0|2f696d672f66616e6379626f782f66616e6379626f785f7370726974654032782e706e67|]
+May  1 21:19:54 10.71.54.11 u88614007 open "/img/fancybox/fancybox_loading@2x.gif" flags READ mode 0666
+May  1 21:19:55 10.71.54.11 u88614007 close "/img/fancybox/fancybox_sprite.png" bytes read 1362 written 0
+May  1 21:19:55 10.71.54.11 u88614007 [10.71.54.11|get|1|1362|0|0|0|2f696d672f66616e6379626f782f66616e6379626f785f7370726974652e706e67|]
+May  1 21:19:55 10.71.54.11 u88614007 open "/img/fancybox/fancybox_overlay.png" flags READ mode 0666
+May  1 21:19:55 10.71.54.11 u88614007 close "/img/fancybox/fancybox_loading@2x.gif" bytes read 13984 written 0
+May  1 21:19:55 10.71.54.11 u88614007 [10.71.54.11|get|1|13984|0|0|0|2f696d672f66616e6379626f782f66616e6379626f785f6c6f6164696e674032782e676966|]
+May  1 21:19:55 10.71.54.11 u88614007 open "/img/fancybox/fancybox_loading.gif" flags READ mode 0666
+May  1 21:19:55 10.71.54.11 u88614007 close "/img/fancybox/fancybox_overlay.png" bytes read 1003 written 0
+May  1 21:19:55 10.71.54.11 u88614007 [10.71.54.11|get|0|1003|0|0|0|2f696d672f66616e6379626f782f66616e6379626f785f6f7665726c61792e706e67|]
+May  1 21:19:55 10.71.54.11 u88614007 open "/img/fancybox/blank.gif" flags READ mode 0666
+May  1 21:19:55 10.71.54.11 u88614007 close "/img/fancybox/fancybox_loading.gif" bytes read 6567 written 0
+May  1 21:19:55 10.71.54.11 u88614007 [10.71.54.11|get|0|6567|0|0|0|2f696d672f66616e6379626f782f66616e6379626f785f6c6f6164696e672e676966|]
+May  1 21:19:55 10.71.54.11 u88614007 close "/img/fancybox/blank.gif" bytes read 43 written 0
+May  1 21:19:55 10.71.54.11 u88614007 [10.71.54.11|get|0|43|0|0|0|2f696d672f66616e6379626f782f626c616e6b2e676966|]
+May  1 21:19:56 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_6.jpg" flags READ mode 0666
+May  1 21:19:56 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_5.jpg" flags READ mode 0666
+May  1 21:19:56 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_6.jpg" bytes read 54765 written 0
+May  1 21:19:56 10.71.54.11 u88614007 [10.71.54.11|get|0|54765|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f362e6a7067|]
+May  1 21:19:56 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_4.jpg" flags READ mode 0666
+May  1 21:19:56 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_5.jpg" bytes read 49122 written 0
+May  1 21:19:56 10.71.54.11 u88614007 [10.71.54.11|get|0|49122|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f352e6a7067|]
+May  1 21:19:56 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_3.jpg" flags READ mode 0666
+May  1 21:19:56 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_4.jpg" bytes read 68934 written 0
+May  1 21:19:56 10.71.54.11 u88614007 [10.71.54.11|get|0|68934|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f342e6a7067|]
+May  1 21:19:57 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_2.jpg" flags READ mode 0666
+May  1 21:19:57 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_3.jpg" bytes read 73095 written 0
+May  1 21:19:57 10.71.54.11 u88614007 [10.71.54.11|get|1|73095|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f332e6a7067|]
+May  1 21:19:57 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/casa_morales_1.jpg" flags READ mode 0666
+May  1 21:19:57 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_2.jpg" bytes read 61184 written 0
+May  1 21:19:57 10.71.54.11 u88614007 [10.71.54.11|get|0|61184|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f322e6a7067|]
+May  1 21:19:57 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/casa_morales_1.jpg" bytes read 75153 written 0
+May  1 21:19:57 10.71.54.11 u88614007 [10.71.54.11|get|0|75153|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f636173615f6d6f72616c65735f312e6a7067|]
+May  1 21:19:57 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_6.jpg" flags READ mode 0666
+May  1 21:19:58 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_5.jpg" flags READ mode 0666
+May  1 21:19:58 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_6.jpg" bytes read 59095 written 0
+May  1 21:19:58 10.71.54.11 u88614007 [10.71.54.11|get|1|59095|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f362e6a7067|]
+May  1 21:19:58 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_5.jpg" bytes read 58277 written 0
+May  1 21:19:58 10.71.54.11 u88614007 [10.71.54.11|get|0|58277|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f352e6a7067|]
+May  1 21:19:58 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_4.jpg" flags READ mode 0666
+May  1 21:19:58 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_3.jpg" flags READ mode 0666
+May  1 21:19:58 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_4.jpg" bytes read 62358 written 0
+May  1 21:19:58 10.71.54.11 u88614007 [10.71.54.11|get|0|62358|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f342e6a7067|]
+May  1 21:19:59 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_3.jpg" bytes read 80506 written 0
+May  1 21:19:59 10.71.54.11 u88614007 [10.71.54.11|get|1|80506|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f332e6a7067|]
+May  1 21:19:59 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_1.jpg" flags READ mode 0666
+May  1 21:19:59 10.71.54.11 u88614007 open "/img/portafolio/casa_morales/grandes/casa_morales_2.jpg" flags READ mode 0666
+May  1 21:19:59 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_1.jpg" bytes read 61517 written 0
+May  1 21:19:59 10.71.54.11 u88614007 [10.71.54.11|get|0|61517|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f312e6a7067|]
+May  1 21:19:59 10.71.54.11 u88614007 close "/img/portafolio/casa_morales/grandes/casa_morales_2.jpg" bytes read 82438 written 0
+May  1 21:19:59 10.71.54.11 u88614007 [10.71.54.11|get|0|82438|0|0|0|2f696d672f706f727461666f6c696f2f636173615f6d6f72616c65732f6772616e6465732f636173615f6d6f72616c65735f322e6a7067|]
+May  1 21:19:59 10.71.54.11 u88614007 sent status No such file
+May  1 21:20:00 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/cassa_inova_4.jpg" flags READ mode 0666
+May  1 21:20:00 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/cassa_inova_3.jpg" flags READ mode 0666
+May  1 21:20:00 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/cassa_inova_4.jpg" bytes read 58364 written 0
+May  1 21:20:00 10.71.54.11 u88614007 [10.71.54.11|get|0|58364|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f63617373615f696e6f76615f342e6a7067|]
+May  1 21:20:00 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/cassa_inova_3.jpg" bytes read 50515 written 0
+May  1 21:20:00 10.71.54.11 u88614007 [10.71.54.11|get|0|50515|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f63617373615f696e6f76615f332e6a7067|]
+May  1 21:20:00 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/cassa_inova_2.jpg" flags READ mode 0666
+May  1 21:20:00 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/cassa_inova_1.jpg" flags READ mode 0666
+May  1 21:20:00 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/cassa_inova_2.jpg" bytes read 107283 written 0
+May  1 21:20:00 10.71.54.11 u88614007 [10.71.54.11|get|0|107283|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f63617373615f696e6f76615f322e6a7067|]
+May  1 21:20:01 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/cassa_inova_1.jpg" bytes read 33904 written 0
+May  1 21:20:01 10.71.54.11 u88614007 [10.71.54.11|get|1|33904|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f63617373615f696e6f76615f312e6a7067|]
+May  1 21:20:01 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/grandes/cassa_inova_4.jpg" flags READ mode 0666
+May  1 21:20:01 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/grandes/cassa_inova_3.jpg" flags READ mode 0666
+May  1 21:20:01 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/grandes/cassa_inova_4.jpg" bytes read 66463 written 0
+May  1 21:20:01 10.71.54.11 u88614007 [10.71.54.11|get|0|66463|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f6772616e6465732f63617373615f696e6f76615f342e6a7067|]
+May  1 21:20:01 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/grandes/cassa_inova_3.jpg" bytes read 72245 written 0
+May  1 21:20:01 10.71.54.11 u88614007 [10.71.54.11|get|0|72245|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f6772616e6465732f63617373615f696e6f76615f332e6a7067|]
+May  1 21:20:01 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/grandes/cassa_inova_1.jpg" flags READ mode 0666
+May  1 21:20:01 10.71.54.11 u88614007 open "/img/portafolio/cassa_inova/grandes/cassa_inova_2.jpg" flags READ mode 0666
+May  1 21:20:02 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/grandes/cassa_inova_1.jpg" bytes read 36620 written 0
+May  1 21:20:02 10.71.54.11 u88614007 [10.71.54.11|get|1|36620|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f6772616e6465732f63617373615f696e6f76615f312e6a7067|]
+May  1 21:20:02 10.71.54.11 u88614007 close "/img/portafolio/cassa_inova/grandes/cassa_inova_2.jpg" bytes read 77006 written 0
+May  1 21:20:02 10.71.54.11 u88614007 [10.71.54.11|get|1|77006|0|0|0|2f696d672f706f727461666f6c696f2f63617373615f696e6f76612f6772616e6465732f63617373615f696e6f76615f322e6a7067|]
+May  1 21:20:02 10.71.54.11 u88614007 open "/img/portafolio/ccg/ccg_1.jpg" flags READ mode 0666
+May  1 21:20:02 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_6.jpg" flags READ mode 0666
+May  1 21:20:03 10.71.54.11 u88614007 close "/img/portafolio/ccg/ccg_1.jpg" bytes read 102424 written 0
+May  1 21:20:03 10.71.54.11 u88614007 [10.71.54.11|get|1|102424|0|0|0|2f696d672f706f727461666f6c696f2f6363672f6363675f312e6a7067|]
+May  1 21:20:03 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_6.jpg" bytes read 63848 written 0
+May  1 21:20:03 10.71.54.11 u88614007 [10.71.54.11|get|1|63848|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f362e6a7067|]
+May  1 21:20:03 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_4.jpg" flags READ mode 0666
+May  1 21:20:03 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_5.jpg" flags READ mode 0666
+May  1 21:20:03 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_4.jpg" bytes read 94238 written 0
+May  1 21:20:03 10.71.54.11 u88614007 [10.71.54.11|get|0|94238|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f342e6a7067|]
+May  1 21:20:03 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_2.jpg" flags READ mode 0666
+May  1 21:20:03 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_5.jpg" bytes read 32802 written 0
+May  1 21:20:03 10.71.54.11 u88614007 [10.71.54.11|get|0|32802|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f352e6a7067|]
+May  1 21:20:04 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_3.jpg" flags READ mode 0666
+May  1 21:20:04 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_2.jpg" bytes read 39518 written 0
+May  1 21:20:04 10.71.54.11 u88614007 [10.71.54.11|get|1|39518|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f322e6a7067|]
+May  1 21:20:04 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/digital_plus_1.jpg" flags READ mode 0666
+May  1 21:20:04 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_3.jpg" bytes read 53117 written 0
+May  1 21:20:04 10.71.54.11 u88614007 [10.71.54.11|get|0|53117|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f332e6a7067|]
+May  1 21:20:04 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/digital_plus_1.jpg" bytes read 75982 written 0
+May  1 21:20:04 10.71.54.11 u88614007 [10.71.54.11|get|0|75982|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6469676974616c5f706c75735f312e6a7067|]
+May  1 21:20:04 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/grandes/digital_plus_5.jpg" flags READ mode 0666
+May  1 21:20:04 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/grandes/digital_plus_4.jpg" flags READ mode 0666
+May  1 21:20:05 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/grandes/digital_plus_5.jpg" bytes read 20600 written 0
+May  1 21:20:05 10.71.54.11 u88614007 [10.71.54.11|get|1|20600|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6772616e6465732f6469676974616c5f706c75735f352e6a7067|]
+May  1 21:20:05 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/grandes/digital_plus_3.jpg" flags READ mode 0666
+May  1 21:20:05 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/grandes/digital_plus_4.jpg" bytes read 81954 written 0
+May  1 21:20:05 10.71.54.11 u88614007 [10.71.54.11|get|1|81954|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6772616e6465732f6469676974616c5f706c75735f342e6a7067|]
+May  1 21:20:05 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/grandes/digital_plus_3.jpg" bytes read 77408 written 0
+May  1 21:20:05 10.71.54.11 u88614007 [10.71.54.11|get|0|77408|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6772616e6465732f6469676974616c5f706c75735f332e6a7067|]
+May  1 21:20:05 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/grandes/digital_plus_1.jpg" flags READ mode 0666
+May  1 21:20:05 10.71.54.11 u88614007 open "/img/portafolio/digital_plus/grandes/digital_plus_2.jpg" flags READ mode 0666
+May  1 21:20:05 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/grandes/digital_plus_1.jpg" bytes read 88055 written 0
+May  1 21:20:05 10.71.54.11 u88614007 [10.71.54.11|get|0|88055|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6772616e6465732f6469676974616c5f706c75735f312e6a7067|]
+May  1 21:20:05 10.71.54.11 u88614007 close "/img/portafolio/digital_plus/grandes/digital_plus_2.jpg" bytes read 89414 written 0
+May  1 21:20:05 10.71.54.11 u88614007 [10.71.54.11|get|0|89414|0|0|0|2f696d672f706f727461666f6c696f2f6469676974616c5f706c75732f6772616e6465732f6469676974616c5f706c75735f322e6a7067|]
+May  1 21:20:06 10.71.54.11 u88614007 open "/img/portafolio/dra_gurrola/dra_gurrola_1.jpg" flags READ mode 0666
+May  1 21:20:06 10.71.54.11 u88614007 open "/img/portafolio/festival_yucatan/festival_yucatan_portada.jpg" flags READ mode 0666
+May  1 21:20:06 10.71.54.11 u88614007 close "/img/portafolio/dra_gurrola/dra_gurrola_1.jpg" bytes read 82567 written 0
+May  1 21:20:06 10.71.54.11 u88614007 [10.71.54.11|get|0|82567|0|0|0|2f696d672f706f727461666f6c696f2f6472615f677572726f6c612f6472615f677572726f6c615f312e6a7067|]
+May  1 21:20:06 10.71.54.11 u88614007 close "/img/portafolio/festival_yucatan/festival_yucatan_portada.jpg" bytes read 80101 written 0
+May  1 21:20:06 10.71.54.11 u88614007 [10.71.54.11|get|0|80101|0|0|0|2f696d672f706f727461666f6c696f2f666573746976616c5f7975636174616e2f666573746976616c5f7975636174616e5f706f72746164612e6a7067|]
+May  1 21:20:06 10.71.54.11 u88614007 open "/img/portafolio/festival_yucatan/festival_yucatan_3.jpg" flags READ mode 0666
+May  1 21:20:06 10.71.54.11 u88614007 open "/img/portafolio/festival_yucatan/festival_yucatan_4.jpg" flags READ mode 0666
+May  1 21:20:07 10.71.54.11 u88614007 close "/img/portafolio/festival_yucatan/festival_yucatan_3.jpg" bytes read 85807 written 0
+May  1 21:20:07 10.71.54.11 u88614007 [10.71.54.11|get|1|85807|0|0|0|2f696d672f706f727461666f6c696f2f666573746976616c5f7975636174616e2f666573746976616c5f7975636174616e5f332e6a7067|]
+May  1 21:20:07 10.71.54.11 u88614007 close "/img/portafolio/festival_yucatan/festival_yucatan_4.jpg" bytes read 88498 written 0
+May  1 21:20:07 10.71.54.11 u88614007 [10.71.54.11|get|1|88498|0|0|0|2f696d672f706f727461666f6c696f2f666573746976616c5f7975636174616e2f666573746976616c5f7975636174616e5f342e6a7067|]
+May  1 21:20:07 10.71.54.11 u88614007 open "/img/portafolio/festival_yucatan/festival_yucatan_2.jpg" flags READ mode 0666
+May  1 21:20:07 10.71.54.11 u88614007 open "/img/portafolio/festival_yucatan/festival_yucatan_1.jpg" flags READ mode 0666
+May  1 21:20:07 10.71.54.11 u88614007 close "/img/portafolio/festival_yucatan/festival_yucatan_2.jpg" bytes read 105141 written 0
+May  1 21:20:07 10.71.54.11 u88614007 [10.71.54.11|get|0|105141|0|0|0|2f696d672f706f727461666f6c696f2f666573746976616c5f7975636174616e2f666573746976616c5f7975636174616e5f322e6a7067|]
+May  1 21:20:07 10.71.54.11 u88614007 close "/img/portafolio/festival_yucatan/festival_yucatan_1.jpg" bytes read 52468 written 0
+May  1 21:20:07 10.71.54.11 u88614007 [10.71.54.11|get|0|52468|0|0|0|2f696d672f706f727461666f6c696f2f666573746976616c5f7975636174616e2f666573746976616c5f7975636174616e5f312e6a7067|]
+May  1 21:20:07 10.71.54.11 u88614007 open "/img/portafolio/fujifilm/fujifilm_2.jpg" flags READ mode 0666
+May  1 21:20:08 10.71.54.11 u88614007 open "/img/portafolio/fujifilm/fujifilm_1.jpg" flags READ mode 0666
+May  1 21:20:08 10.71.54.11 u88614007 close "/img/portafolio/fujifilm/fujifilm_2.jpg" bytes read 66316 written 0
+May  1 21:20:08 10.71.54.11 u88614007 [10.71.54.11|get|1|66316|0|0|0|2f696d672f706f727461666f6c696f2f66756a6966696c6d2f66756a6966696c6d5f322e6a7067|]
+May  1 21:20:08 10.71.54.11 u88614007 close "/img/portafolio/fujifilm/fujifilm_1.jpg" bytes read 60292 written 0
+May  1 21:20:08 10.71.54.11 u88614007 [10.71.54.11|get|0|60292|0|0|0|2f696d672f706f727461666f6c696f2f66756a6966696c6d2f66756a6966696c6d5f312e6a7067|]
+May  1 21:20:08 10.71.54.11 u88614007 open "/img/portafolio/gepp/gepp_3.jpg" flags READ mode 0666
+May  1 21:20:08 10.71.54.11 u88614007 open "/img/portafolio/gepp/gepp_2.jpg" flags READ mode 0666
+May  1 21:20:08 10.71.54.11 u88614007 close "/img/portafolio/gepp/gepp_3.jpg" bytes read 78248 written 0
+May  1 21:20:08 10.71.54.11 u88614007 [10.71.54.11|get|0|78248|0|0|0|2f696d672f706f727461666f6c696f2f676570702f676570705f332e6a7067|]
+May  1 21:20:09 10.71.54.11 u88614007 close "/img/portafolio/gepp/gepp_2.jpg" bytes read 104909 written 0
+May  1 21:20:09 10.71.54.11 u88614007 [10.71.54.11|get|1|104909|0|0|0|2f696d672f706f727461666f6c696f2f676570702f676570705f322e6a7067|]
+May  1 21:20:09 10.71.54.11 u88614007 open "/img/portafolio/gepp/gepp_1.jpg" flags READ mode 0666
+May  1 21:20:09 10.71.54.11 u88614007 open "/img/portafolio/gepp/grandes/gepp_3.jpg" flags READ mode 0666
+May  1 21:20:09 10.71.54.11 u88614007 close "/img/portafolio/gepp/grandes/gepp_3.jpg" bytes read 99781 written 0
+May  1 21:20:09 10.71.54.11 u88614007 [10.71.54.11|get|0|99781|0|0|0|2f696d672f706f727461666f6c696f2f676570702f6772616e6465732f676570705f332e6a7067|]
+May  1 21:20:10 10.71.54.11 u88614007 open "/img/portafolio/gepp/grandes/gepp_2.jpg" flags READ mode 0666
+May  1 21:20:10 10.71.54.11 u88614007 close "/img/portafolio/gepp/gepp_1.jpg" bytes read 109733 written 0
+May  1 21:20:10 10.71.54.11 u88614007 [10.71.54.11|get|1|109733|0|0|0|2f696d672f706f727461666f6c696f2f676570702f676570705f312e6a7067|]
+May  1 21:20:10 10.71.54.11 u88614007 close "/img/portafolio/gepp/grandes/gepp_2.jpg" bytes read 105938 written 0
+May  1 21:20:10 10.71.54.11 u88614007 [10.71.54.11|get|0|105938|0|0|0|2f696d672f706f727461666f6c696f2f676570702f6772616e6465732f676570705f322e6a7067|]
+May  1 21:20:10 10.71.54.11 u88614007 open "/img/portafolio/gepp/grandes/gepp_1.jpg" flags READ mode 0666
+May  1 21:20:10 10.71.54.11 u88614007 open "/img/portafolio/high_preformance_states/high_preformance_states_2.jpg" flags READ mode 0666
+May  1 21:20:11 10.71.54.11 u88614007 close "/img/portafolio/gepp/grandes/gepp_1.jpg" bytes read 91553 written 0
+May  1 21:20:11 10.71.54.11 u88614007 [10.71.54.11|get|1|91553|0|0|0|2f696d672f706f727461666f6c696f2f676570702f6772616e6465732f676570705f312e6a7067|]
+May  1 21:20:11 10.71.54.11 u88614007 close "/img/portafolio/high_preformance_states/high_preformance_states_2.jpg" bytes read 50318 written 0
+May  1 21:20:11 10.71.54.11 u88614007 [10.71.54.11|get|1|50318|0|0|0|2f696d672f706f727461666f6c696f2f686967685f707265666f726d616e63655f7374617465732f686967685f707265666f726d616e63655f7374617465735f322e6a7067|]
+May  1 21:20:11 10.71.54.11 u88614007 open "/img/portafolio/high_preformance_states/high_preformance_states_1.jpg" flags READ mode 0666
+May  1 21:20:11 10.71.54.11 u88614007 open "/img/portafolio/high_preformance_states/grandes/high_preformance_states_2.jpg" flags READ mode 0666
+May  1 21:20:11 10.71.54.11 u88614007 close "/img/portafolio/high_preformance_states/high_preformance_states_1.jpg" bytes read 43382 written 0
+May  1 21:20:11 10.71.54.11 u88614007 [10.71.54.11|get|0|43382|0|0|0|2f696d672f706f727461666f6c696f2f686967685f707265666f726d616e63655f7374617465732f686967685f707265666f726d616e63655f7374617465735f312e6a7067|]
+May  1 21:20:11 10.71.54.11 u88614007 close "/img/portafolio/high_preformance_states/grandes/high_preformance_states_2.jpg" bytes read 36147 written 0
+May  1 21:20:11 10.71.54.11 u88614007 [10.71.54.11|get|0|36147|0|0|0|2f696d672f706f727461666f6c696f2f686967685f707265666f726d616e63655f7374617465732f6772616e6465732f686967685f707265666f726d616e63655f7374617465735f322e6a7067|]
+May  1 21:20:12 10.71.54.11 u88614007 open "/img/portafolio/ishow/ishow_4.jpg" flags READ mode 0666
+May  1 21:20:12 10.71.54.11 u88614007 open "/img/portafolio/ishow/ishow_3.jpg" flags READ mode 0666
+May  1 21:20:12 10.71.54.11 u88614007 close "/img/portafolio/ishow/ishow_4.jpg" bytes read 83328 written 0
+May  1 21:20:12 10.71.54.11 u88614007 [10.71.54.11|get|0|83328|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6973686f775f342e6a7067|]
+May  1 21:20:12 10.71.54.11 u88614007 close "/img/portafolio/ishow/ishow_3.jpg" bytes read 103112 written 0
+May  1 21:20:12 10.71.54.11 u88614007 [10.71.54.11|get|0|103112|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6973686f775f332e6a7067|]
+May  1 21:20:12 10.71.54.11 u88614007 open "/img/portafolio/ishow/ishow_1.jpg" flags READ mode 0666
+May  1 21:20:12 10.71.54.11 u88614007 open "/img/portafolio/ishow/ishow_2.jpg" flags READ mode 0666
+May  1 21:20:12 10.71.54.11 u88614007 close "/img/portafolio/ishow/ishow_1.jpg" bytes read 67339 written 0
+May  1 21:20:12 10.71.54.11 u88614007 [10.71.54.11|get|0|67339|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6973686f775f312e6a7067|]
+May  1 21:20:13 10.71.54.11 u88614007 close "/img/portafolio/ishow/ishow_2.jpg" bytes read 78459 written 0
+May  1 21:20:13 10.71.54.11 u88614007 [10.71.54.11|get|1|78459|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6973686f775f322e6a7067|]
+May  1 21:20:13 10.71.54.11 u88614007 open "/img/portafolio/ishow/grandes/ishow_3.jpg" flags READ mode 0666
+May  1 21:20:13 10.71.54.11 u88614007 open "/img/portafolio/ishow/grandes/ishow_2.jpg" flags READ mode 0666
+May  1 21:20:13 10.71.54.11 u88614007 close "/img/portafolio/ishow/grandes/ishow_3.jpg" bytes read 72679 written 0
+May  1 21:20:13 10.71.54.11 u88614007 [10.71.54.11|get|0|72679|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6772616e6465732f6973686f775f332e6a7067|]
+May  1 21:20:13 10.71.54.11 u88614007 close "/img/portafolio/ishow/grandes/ishow_2.jpg" bytes read 83983 written 0
+May  1 21:20:13 10.71.54.11 u88614007 [10.71.54.11|get|0|83983|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6772616e6465732f6973686f775f322e6a7067|]
+May  1 21:20:13 10.71.54.11 u88614007 open "/img/portafolio/ishow/grandes/ishow_1.jpg" flags READ mode 0666
+May  1 21:20:14 10.71.54.11 u88614007 close "/img/portafolio/ishow/grandes/ishow_1.jpg" bytes read 70763 written 0
+May  1 21:20:14 10.71.54.11 u88614007 [10.71.54.11|get|1|70763|0|0|0|2f696d672f706f727461666f6c696f2f6973686f772f6772616e6465732f6973686f775f312e6a7067|]
+May  1 21:20:14 10.71.54.11 u88614007 open "/img/portafolio/mardueno/mardueno_portada.jpg" flags READ mode 0666
+May  1 21:20:14 10.71.54.11 u88614007 close "/img/portafolio/mardueno/mardueno_portada.jpg" bytes read 31184 written 0
+May  1 21:20:14 10.71.54.11 u88614007 [10.71.54.11|get|0|31184|0|0|0|2f696d672f706f727461666f6c696f2f6d61726475656e6f2f6d61726475656e6f5f706f72746164612e6a7067|]
+May  1 21:20:14 10.71.54.11 u88614007 open "/img/portafolio/membranas/membranas_portada.jpg" flags READ mode 0666
+May  1 21:20:14 10.71.54.11 u88614007 close "/img/portafolio/membranas/membranas_portada.jpg" bytes read 31499 written 0
+May  1 21:20:14 10.71.54.11 u88614007 [10.71.54.11|get|0|31499|0|0|0|2f696d672f706f727461666f6c696f2f6d656d6272616e61732f6d656d6272616e61735f706f72746164612e6a7067|]
+May  1 21:20:14 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_9.jpg" flags READ mode 0666
+May  1 21:20:15 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_9.jpg" bytes read 73093 written 0
+May  1 21:20:15 10.71.54.11 u88614007 [10.71.54.11|get|1|73093|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f392e6a7067|]
+May  1 21:20:15 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_8.jpg" flags READ mode 0666
+May  1 21:20:15 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_7.jpg" flags READ mode 0666
+May  1 21:20:15 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_8.jpg" bytes read 59136 written 0
+May  1 21:20:15 10.71.54.11 u88614007 [10.71.54.11|get|0|59136|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f382e6a7067|]
+May  1 21:20:15 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_7.jpg" bytes read 55670 written 0
+May  1 21:20:15 10.71.54.11 u88614007 [10.71.54.11|get|0|55670|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f372e6a7067|]
+May  1 21:20:15 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_6.jpg" flags READ mode 0666
+May  1 21:20:15 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_5.jpg" flags READ mode 0666
+May  1 21:20:16 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_6.jpg" bytes read 62633 written 0
+May  1 21:20:16 10.71.54.11 u88614007 [10.71.54.11|get|1|62633|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f362e6a7067|]
+May  1 21:20:16 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_5.jpg" bytes read 87777 written 0
+May  1 21:20:16 10.71.54.11 u88614007 [10.71.54.11|get|1|87777|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f352e6a7067|]
+May  1 21:20:16 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_4.jpg" flags READ mode 0666
+May  1 21:20:16 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_3.jpg" flags READ mode 0666
+May  1 21:20:16 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_4.jpg" bytes read 102060 written 0
+May  1 21:20:16 10.71.54.11 u88614007 [10.71.54.11|get|0|102060|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f342e6a7067|]
+May  1 21:20:16 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_3.jpg" bytes read 103735 written 0
+May  1 21:20:16 10.71.54.11 u88614007 [10.71.54.11|get|0|103735|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f332e6a7067|]
+May  1 21:20:16 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_2.jpg" flags READ mode 0666
+May  1 21:20:16 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_12.jpg" flags READ mode 0666
+May  1 21:20:17 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_2.jpg" bytes read 57288 written 0
+May  1 21:20:17 10.71.54.11 u88614007 [10.71.54.11|get|1|57288|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f322e6a7067|]
+May  1 21:20:17 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_11.jpg" flags READ mode 0666
+May  1 21:20:17 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_12.jpg" bytes read 74217 written 0
+May  1 21:20:17 10.71.54.11 u88614007 [10.71.54.11|get|1|74217|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f31322e6a7067|]
+May  1 21:20:17 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_1.jpg" flags READ mode 0666
+May  1 21:20:17 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_11.jpg" bytes read 68222 written 0
+May  1 21:20:17 10.71.54.11 u88614007 [10.71.54.11|get|0|68222|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f31312e6a7067|]
+May  1 21:20:17 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_1.jpg" bytes read 92592 written 0
+May  1 21:20:17 10.71.54.11 u88614007 [10.71.54.11|get|0|92592|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f312e6a7067|]
+May  1 21:20:18 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/sanborns_10.jpg" flags READ mode 0666
+May  1 21:20:18 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_9.jpg" flags READ mode 0666
+May  1 21:20:18 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/sanborns_10.jpg" bytes read 78830 written 0
+May  1 21:20:18 10.71.54.11 u88614007 [10.71.54.11|get|0|78830|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f73616e626f726e735f31302e6a7067|]
+May  1 21:20:18 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_9.jpg" bytes read 85833 written 0
+May  1 21:20:18 10.71.54.11 u88614007 [10.71.54.11|get|0|85833|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f392e6a7067|]
+May  1 21:20:18 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_7.jpg" flags READ mode 0666
+May  1 21:20:18 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_8.jpg" flags READ mode 0666
+May  1 21:20:19 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_8.jpg" bytes read 63994 written 0
+May  1 21:20:19 10.71.54.11 u88614007 [10.71.54.11|get|1|63994|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f382e6a7067|]
+May  1 21:20:19 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_7.jpg" bytes read 63145 written 0
+May  1 21:20:19 10.71.54.11 u88614007 [10.71.54.11|get|1|63145|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f372e6a7067|]
+May  1 21:20:19 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_6.jpg" flags READ mode 0666
+May  1 21:20:19 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_5.jpg" flags READ mode 0666
+May  1 21:20:19 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_6.jpg" bytes read 54540 written 0
+May  1 21:20:19 10.71.54.11 u88614007 [10.71.54.11|get|0|54540|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f362e6a7067|]
+May  1 21:20:19 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_5.jpg" bytes read 94640 written 0
+May  1 21:20:19 10.71.54.11 u88614007 [10.71.54.11|get|0|94640|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f352e6a7067|]
+May  1 21:20:19 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_4.jpg" flags READ mode 0666
+May  1 21:20:19 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_2.jpg" flags READ mode 0666
+May  1 21:20:20 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_2.jpg" bytes read 53687 written 0
+May  1 21:20:20 10.71.54.11 u88614007 [10.71.54.11|get|1|53687|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f322e6a7067|]
+May  1 21:20:20 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_4.jpg" bytes read 106758 written 0
+May  1 21:20:20 10.71.54.11 u88614007 [10.71.54.11|get|1|106758|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f342e6a7067|]
+May  1 21:20:20 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_3.jpg" flags READ mode 0666
+May  1 21:20:20 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_12.jpg" flags READ mode 0666
+May  1 21:20:20 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_3.jpg" bytes read 98650 written 0
+May  1 21:20:20 10.71.54.11 u88614007 [10.71.54.11|get|0|98650|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f332e6a7067|]
+May  1 21:20:20 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_12.jpg" bytes read 50922 written 0
+May  1 21:20:20 10.71.54.11 u88614007 [10.71.54.11|get|0|50922|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f31322e6a7067|]
+May  1 21:20:20 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_11.jpg" flags READ mode 0666
+May  1 21:20:20 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_1.jpg" flags READ mode 0666
+May  1 21:20:21 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_11.jpg" bytes read 67781 written 0
+May  1 21:20:21 10.71.54.11 u88614007 [10.71.54.11|get|1|67781|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f31312e6a7067|]
+May  1 21:20:21 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_1.jpg" bytes read 68402 written 0
+May  1 21:20:21 10.71.54.11 u88614007 [10.71.54.11|get|1|68402|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f312e6a7067|]
+May  1 21:20:21 10.71.54.11 u88614007 open "/img/portafolio/sanborns_artes/grandes/sanborns_10.jpg" flags READ mode 0666
+May  1 21:20:21 10.71.54.11 u88614007 close "/img/portafolio/sanborns_artes/grandes/sanborns_10.jpg" bytes read 75307 written 0
+May  1 21:20:21 10.71.54.11 u88614007 [10.71.54.11|get|0|75307|0|0|0|2f696d672f706f727461666f6c696f2f73616e626f726e735f61727465732f6772616e6465732f73616e626f726e735f31302e6a7067|]
+May  1 21:20:21 10.71.54.11 u88614007 open "/js/script.js" flags READ mode 0666
+May  1 21:20:22 10.71.54.11 u88614007 close "/js/script.js" bytes read 138 written 0
+May  1 21:20:22 10.71.54.11 u88614007 [10.71.54.11|get|1|138|0|0|0|2f6a732f7363726970742e6a73|]
+May  1 21:20:22 10.71.54.11 u88614007 open "/js/vendor/prefixfree.min.js" flags READ mode 0666
+May  1 21:20:22 10.71.54.11 u88614007 close "/js/vendor/prefixfree.min.js" bytes read 6242 written 0
+May  1 21:20:22 10.71.54.11 u88614007 [10.71.54.11|get|0|6242|0|0|0|2f6a732f76656e646f722f707265666978667265652e6d696e2e6a73|]
+May  1 21:20:22 10.71.54.11 u88614007 open "/js/vendor/jquery.fancybox.js" flags READ mode 0666
+May  1 21:20:22 10.71.54.11 u88614007 open "/js/vendor/jquery-1.11.2.min.js" flags READ mode 0666
+May  1 21:20:23 10.71.54.11 u88614007 close "/js/vendor/jquery.fancybox.js" bytes read 48706 written 0
+May  1 21:20:23 10.71.54.11 u88614007 [10.71.54.11|get|1|48706|0|0|0|2f6a732f76656e646f722f6a71756572792e66616e6379626f782e6a73|]
+May  1 21:20:23 10.71.54.11 u88614007 close "/js/vendor/jquery-1.11.2.min.js" bytes read 95931 written 0
+May  1 21:20:23 10.71.54.11 u88614007 [10.71.54.11|get|1|95931|0|0|0|2f6a732f76656e646f722f6a71756572792d312e31312e322e6d696e2e6a73|]
+May  1 21:20:23 10.71.54.11 u88614007 open "/js/vendor/isotope.pkgd.min.js" flags READ mode 0666
+May  1 21:20:23 10.71.54.11 u88614007 close "/js/vendor/isotope.pkgd.min.js" bytes read 37705 written 0
+May  1 21:20:23 10.71.54.11 u88614007 open "/logs/access.log.17.5.gz" flags READ mode 0666
+May  1 21:20:23 10.71.54.11 u88614007 [10.71.54.11|get|0|37705|0|0|0|2f6a732f76656e646f722f69736f746f70652e706b67642e6d696e2e6a73|]
+May  1 21:20:23 10.71.54.11 u88614007 close "/logs/access.log.17.5.gz" bytes read 527 written 0
+May  1 21:20:23 10.71.54.11 u88614007 [10.71.54.11|get|0|527|0|0|0|2f6c6f67732f6163636573732e6c6f672e31372e352e677a|]
+May  1 21:20:23 10.71.54.11 u88614007 open "/logs/access.log.11.gz" flags READ mode 0666
+May  1 21:20:23 10.71.54.11 u88614007 open "/logs/sftp.log" flags READ mode 0666
